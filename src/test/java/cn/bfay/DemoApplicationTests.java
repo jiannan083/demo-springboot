@@ -1,4 +1,4 @@
-package cn.bfay.demo;
+package cn.bfay;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
